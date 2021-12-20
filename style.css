@@ -18,6 +18,15 @@ body {
 
   .col{
     background-color: whitesmoke;
-
   }
 
+  .dataframe{
+      background-color: whitesmoke;
+  }
+  .jumbotron{
+    /* background-image: url("Instructions/background.jpg"); */
+    background-color:unset;
+      color: whitesmoke;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-weight: bold;  
+  }
